@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "date": "2025-04-23",
+      "messages": [
+        {
+          "id": 1,
+          "room_id": "313621130",
+          "sender_id": "Khalil_Connelly79@gmail.com",
+          "sender_type": "system",
+          "sender_name": "System",
+          "text": "agent test joined this conversation",
+          "timestamp": "2025-04-23T03:51:15Z",
+          "is_read": true
+        },
+        {
+          "id": 2,
+          "room_id": "313621130",
+          "sender_id": "agent@example.com",
+          "sender_type": "agent",
+          "sender_name": "Agent A",
+          "text": "Welcome! How can I assist you?",
+          "timestamp": "2025-04-23T03:52:00Z",
+          "is_read": true
+        },
+        {
+          "id": 3,
+          "room_id": "313621130",
+          "sender_id": "Khalil_Connelly79@gmail.com",
+          "sender_type": "customer",
+          "sender_name": "Khalil",
+          "text": "Need help with my invoice.",
+          "timestamp": "2025-04-23T03:53:10Z",
+          "is_read": true
+        }
+      ]
+    },
+    {
+      "date": "2025-04-24",
+      "messages": [
+        {
+          "id": 4,
+          "room_id": "313621130",
+          "sender_id": "agent@example.com",
+          "sender_type": "agent",
+          "sender_name": "Agent A",
+          "text": "Sure, could you provide your invoice ID?",
+          "timestamp": "2025-04-24T08:00:00Z",
+          "is_read": true
+        },
+        {
+          "id": 5,
+          "room_id": "313621130",
+          "sender_id": "Khalil_Connelly79@gmail.com",
+          "sender_type": "customer",
+          "sender_name": "Khalil",
+          "text": "It’s INV-123456.",
+          "timestamp": "2025-04-24T08:01:30Z",
+          "is_read": true
+        }
+      ]
+    },
+    {
+      "date": "2025-04-25",
+      "messages": [
+        {
+          "id": 6,
+          "room_id": "313621130",
+          "sender_id": "agent@example.com",
+          "sender_type": "agent",
+          "sender_name": "Agent A",
+          "text": "Thanks, your issue has been resolved.",
+          "timestamp": "2025-04-25T10:15:00Z",
+          "is_read": true
+        },
+        {
+          "id": 7,
+          "room_id": "313621130",
+          "sender_id": "Khalil_Connelly79@gmail.com",
+          "sender_type": "customer",
+          "sender_name": "Khalil",
+          "text": "Great, thank you!",
+          "timestamp": "2025-04-25T10:16:22Z",
+          "is_read": true
+        }
+      ]
+    },
+    {
+      "date": "2025-07-05",
+      "messages": [
+        {
+          "id": 8,
+          "room_id": "313621130",
+          "sender_id": "system",
+          "sender_type": "system",
+          "sender_name": "System",
+          "text": "This conversation was reopened.",
+          "timestamp": "2025-07-06T09:00:00Z",
+          "is_read": false
+        },
+        {
+          "id": 8,
+          "room_id": "313621130",
+          "sender_id": "system",
+          "sender_type": "system",
+          "sender_name": "System",
+          "text": "This conversation was reopened.",
+          "timestamp": "2025-07-06T09:00:00Z",
+          "is_read": false
+        },
+        {
+          "id": 8,
+          "room_id": "313621130",
+          "sender_id": "system",
+          "sender_type": "system",
+          "sender_name": "System",
+          "text": "This conversation was reopened.",
+          "timestamp": "2025-07-06T09:00:00Z",
+          "is_read": false,
+          "image_url": "https://random.imagecdn.app/100/100"
+        }
+      ]
+    },
+    {
+      "date": "2025-07-06",
+      "messages": [
+        {
+          "id": 8,
+          "room_id": "313621130",
+          "sender_id": "system",
+          "sender_type": "system",
+          "sender_name": "System",
+          "text": "This conversation was reopened.",
+          "timestamp": "2025-07-06T09:00:00Z",
+          "is_read": false
+        }
+      ]
+    }
+  ]
+}

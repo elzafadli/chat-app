@@ -1,6 +1,6 @@
 # ChatAPP
 
-![ChatAPP](assets/wabotv2.png)
+![ChatAPP](src/assets/chat-app-1.png)
 
 **ChatAPP** adalah layanan chatbot yang membantu tim customer service dalam menangani pesan dan permintaan bantuan dari pelanggan secara efisien melalui sistem chat multikanal.
 
